@@ -1,4 +1,4 @@
-<!-- „Javascript sąlygos sakiniai“
+„Javascript sąlygos sakiniai“
 
  
 
@@ -23,4 +23,4 @@ Papildomai:
 
  
 
-3. Patikrinkite, ar iš trijų įvestų trikampio kraštinių galima sudaryti trikampį. -->
+3. Patikrinkite, ar iš trijų įvestų trikampio kraštinių galima sudaryti trikampį.
